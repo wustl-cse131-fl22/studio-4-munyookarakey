@@ -29,32 +29,81 @@ public class NorwayMotherOfAllFlags {
 	}
 
 	public static void france() {
-		
-		// TODO
+		StdDraw.clear();
+		StdDraw.setXscale(0, 24);
+		StdDraw.setYscale(0, 16);
+		StdDraw.setPenColor(0, 0, 255);
+		StdDraw.filledRectangle(4, 8, 4, 8);
+		StdDraw.setPenColor(255, 255, 255);
+		StdDraw.filledRectangle(12, 8, 4, 8);
+		StdDraw.setPenColor(255, 0, 0);
+		StdDraw.filledRectangle(20, 8, 4, 8);
 	}
 
 	public static void indonesia() {
-		
+		StdDraw.clear();
+		StdDraw.setXscale(0, 24);
+		StdDraw.setYscale(0, 16);
+		StdDraw.setPenColor(255, 0, 0);
+		StdDraw.filledRectangle(12, 8, 12, 8);
+		StdDraw.setPenColor(255, 255, 255);
+		StdDraw.filledRectangle(12, 0, 12, 8);
 		// TODO
 	}
 
 	public static void netherlands() {
-		
+		StdDraw.clear();
+		StdDraw.setXscale(0, 24);
+		StdDraw.setYscale(0, 15);
+		StdDraw.setPenColor(255, 0, 0);
+		StdDraw.filledRectangle(12, 10, 12, 5);
+		StdDraw.setPenColor(255, 255, 255);
+		StdDraw.filledRectangle(12, 5, 12, 5);
+		StdDraw.setPenColor(0, 0, 255);
+		StdDraw.filledRectangle(12, 0, 12, 5);
 		// TODO
 	}
 
 	public static void poland() {
-		
+		StdDraw.clear();
+		StdDraw.setXscale(0, 24);
+		StdDraw.setYscale(0, 16);
+		StdDraw.setPenColor(255, 255, 255);
+		StdDraw.filledRectangle(12, 8, 12, 8);
+		StdDraw.setPenColor(255, 0, 0);
+		StdDraw.filledRectangle(12, 0, 12, 8);
 		// TODO
 	}
 
 	public static void thailand() {
-		
+		StdDraw.clear();
+		StdDraw.setXscale(0, 22);
+		StdDraw.setYscale(0, 24);
+		StdDraw.setPenColor(255, 0, 0);
+		StdDraw.filledRectangle(11, 20, 11, 4);
+		StdDraw.setPenColor(255, 255, 255);
+		StdDraw.filledRectangle(11, 16, 11, 4);
+		StdDraw.setPenColor(0,0,255);
+		StdDraw.filledRectangle(11, 8, 11, 8);
+		StdDraw.setPenColor(255,255,255);
+		StdDraw.filledRectangle(11, 4, 11, 4);
+		StdDraw.setPenColor(255,0,0);
+		StdDraw.filledRectangle(11, 0, 11, 4);
 		// TODO
 	}
 
 	public static void finland() {
-		
+		StdDraw.clear();
+		StdDraw.setXscale(0, 22);
+		StdDraw.setYscale(0, 16);
+		StdDraw.setPenColor(255, 255, 255);
+		StdDraw.filledRectangle(3, 3, 3, 3);
+		StdDraw.filledRectangle(3, 13, 3, 3);
+		StdDraw.filledRectangle(16, 3, 6, 3);
+		StdDraw.filledRectangle(16, 13, 6, 3);
+		StdDraw.setPenColor(0, 0, 127);
+		StdDraw.filledRectangle(11, 8, 11, 2);
+		StdDraw.filledRectangle(8, 8, 2, 8);
 		// TODO
 	}
 
